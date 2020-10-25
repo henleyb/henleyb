@@ -8,6 +8,8 @@
 
 ##### My main experience is with HTML, CSS, JavaScript, React, Node, C#, Java, Ojective-C, T-SQL. I am focusing on levelling up :point_up: my HTML, CSS, JS and React at the moment before moving on to others.
 
+##### If you're new to coding and are looking for someone to give you a hand, fire me a message.
+
 ### What's going on?
 ---
 -  :coffee: I’m currently working on a React coffee app which is private for the time being but may become public in the future for others to contribute to.
