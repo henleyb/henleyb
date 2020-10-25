@@ -9,11 +9,12 @@
 ##### My main experience is with HTML, CSS, JavaScript, React, Node, C#, Java, Ojective-C, T-SQL. I am focusing on levelling up :point_up: my HTML, CSS, JS and React at the moment before moving on to others.
 
 ### What's going on?
-----
+--
 -  :coffee: I’m currently working on a React coffee app which is private for the time being but may become public in the future for others to contribute to.
 - 👯 This year I will be contributing to some open source projects, something that contributes to helping others on some level - that may be human, animal or everything by being for the environment.
 - 📫 You can reach me by firing me an email, I'm always up for chatting ideas and code.
-- :godmode: My interests are Coding, climbing/bouldering, coffee, computer games (check out my Half-Life 2 mod: https://developer.valvesoftware.com/wiki/Rock_24), Freestlye FPV drone flying and making bad music with some hardware synths (The :musical_keyboard: Synthstrom Deluge is a powerhouse). 
+--
+- :godmode: My interests are coding, climbing/bouldering, coffee, computer games (check out my Half-Life 2 mod: https://developer.valvesoftware.com/wiki/Rock_24), Freestlye FPV drone flying and making bad music with some hardware synths (The :musical_keyboard:Synthstrom Deluge is a powerhouse). 
 
 <!--
 **henleyb/henleyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
