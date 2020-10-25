@@ -6,7 +6,7 @@
 
 ##### I work towards being a better coder every day and have been learning solo for a number of years on and off and through various languages. It's only in the past 2 years that I've really commited to making coding a large part of my life. I'd love to join a team with a solid central stack and work towards becoming a true guru.
 
-##### My main experience is with HTML, CSS, JavaScript, React, Node, C#, Java, Objective-C, T-SQL. I am focusing on levelling up :point_up: my HTML, CSS, JS and React at the moment before moving on to others.
+##### My main experience is with HTML, CSS, JavaScript, React, Node, C#, Java, T-SQL. I am focusing on levelling up :point_up: my HTML, CSS, JS and React at the moment before moving on to others.
 
 ##### If you're new to coding and are looking for someone to give you a hand, fire me a message.
 
