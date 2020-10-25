@@ -1,6 +1,6 @@
 ### Hi, I'm Henley 👋
 
-#### I'm a professional developer based in Manchester, UK. 
+#### I'm a professional developer based in Manchester, UK.
 
 ##### I'm currently looking for a great team to make cool stuff with. If your team has passion for coding and looks to elevate each other as well as the projects they're working on then please can I join you?
 
