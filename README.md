@@ -2,9 +2,9 @@
 
 #### I'm a professional developer based in Manchester, UK. 
 
-##### I'm currently looking for a great team to make cool stuff with. If your team has passion for coding and looks to elevate each other as well as the projects they're working on then please can I join you? 
+##### I'm currently looking for a great team to make cool stuff with. If your team has passion for coding and looks to elevate each other as well as the projects they're working on then please can I join you?
 
-##### I work towards being a better coder every day and have been learning solo for a number of years and through various languages. I've picked up a lot of knowledge but also don't know what I don't know.
+##### I work towards being a better coder every day and have been learning solo for a number of years on and off and through various languages. It's only in the past 2 years that I've really commited to making coding a large part of my life. I'd love to join a team with a solid central stack and work towards becoming a true guru.
 
 ##### My main experience is with HTML, CSS, JavaScript, React, Node, C#, Java, Ojective-C, T-SQL. I am focusing on levelling up :point_up: my HTML, CSS, JS and React at the moment before moving on to others.
 
