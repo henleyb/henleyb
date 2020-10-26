@@ -6,7 +6,7 @@
 
 ##### I work towards being a better coder every day and have been learning solo for a number of years on and off and through various languages. It's only in the past 3 years that I've really commited to making coding a large part of my life. 
 
-###### I could really benefit from being calibrated by more senior developers and just being around other developers that don't code just for work but really live it too. You'll hopefully be a team with at least one or two devs that go to events and meetups etc off their own backs and also enjoy going out socially sometimes.
+##### I could really benefit from being calibrated by more senior developers and just being around other developers that don't code just for work but really live it too. You'll hopefully be a team with at least one or two devs that go to events and meetups etc off their own backs and also enjoy going out socially sometimes.
 
 ##### My main experience is with HTML, CSS (SCSS), JavaScript, React, Node, C#, Java, T-SQL. I am focusing on levelling up my HTML, CSS, JS and React at the moment before moving on to others.
 
