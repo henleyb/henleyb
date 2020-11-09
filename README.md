@@ -2,11 +2,11 @@
 
 #### I'm a professional developer based in Manchester, UK.
 
-##### I'm currently looking for a great and collaborative team to write code with. If your team has passion for coding and looks to elevate each other as well as the projects they're working on then I'd love to join you.
+##### I'm looking for a cool and collaborative team to write code with. If your team has passion for coding and looks to elevate each other as well as the projects they're working on then I'd love to join you.
 
-##### I work towards improving as a developer every day and have been learning solo for a number of years on and off and through various languages. It's only in the past 3 years that I've really commited to making coding a large part of my life. 
+##### I have been learning coding solo for a number of years on and off and through various languages. It's only in the last 3 or so years that I've really commited to making coding a larger part of my life after realising that I didn't want to be a professional photographer when I was 50. I'd rather be sitting with a cup of coffee in a comfy chair than doing 14 hour days in the rain with a load of camera gear.  
 
-##### I could really benefit from being calibrated by more senior developers and just being around other developers that don't code just for work but really live it too. You'll hopefully be a team with at least one or two devs that go to events and meetups etc off their own backs and also enjoy going out socially sometimes.
+##### I could benefit from being around more seasoned developers who also have a passion for code. You'll hopefully be a team with at least one or two devs that go to events and meetups and also enjoy going out socially as a team.
 
 ##### My main experience is with HTML, CSS (SCSS), JavaScript, React, Node, C#, Java, T-SQL. I am focusing on levelling up my HTML, CSS, JS and React at the moment before moving on to others.
 
