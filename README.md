@@ -10,7 +10,7 @@
 
 ##### My main experience is with HTML, CSS (SCSS), JavaScript, React, Node, C#, Java, T-SQL. I am focusing on levelling up my HTML, CSS, JS and React at the moment before moving on to others.
 
-##### On the other hand, if you're looking for help with coding then fire me a message.
+##### On the other hand, if you're looking for help with coding then fire me a message as I'm open to mentoring too.
 
 ### What's going on?
 ---
