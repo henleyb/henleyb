@@ -8,7 +8,7 @@
 
 ##### I could benefit from being around more seasoned developers who also have a love for code. You'll hopefully be a team with at least one or two devs that go to events and meetups and also enjoy going out socially as a team.
 
-##### My main experience is with HTML, CSS (SCSS), JavaScript, React, Node, C#, Java, T-SQL. I am focusing on levelling up my HTML, CSS, JS and React at the moment before moving on to others, most likely MongoDB, Node and Express to be a solid MERN dev.
+##### My main experience is with HTML, CSS (SCSS), JavaScript, React, Node, C#, Java, T-SQL. I am focusing on levelling up my HTML, CSS, JS and React at the moment before moving in to more depth with MongoDB, Node and Express to be a solid MERN dev.
 
 ##### On the other hand, if you're looking for help with coding then fire me a message as I'm open to mentoring too.
 
