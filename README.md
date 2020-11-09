@@ -6,7 +6,7 @@
 
 ##### I have been learning coding solo for a number of years on and off and through various languages. It's only in the last 3 or so years that I've really commited to making coding a larger part of my life after realising that I didn't want to be a professional photographer when I was 50. I'd rather be sitting with a cup of coffee in a comfy chair than doing 14 hour days in the rain with a load of camera gear.  
 
-##### I could benefit from being around more seasoned developers who also have a passion for code. You'll hopefully be a team with at least one or two devs that go to events and meetups and also enjoy going out socially as a team.
+##### I could benefit from being around more seasoned developers who also have a love for code. You'll hopefully be a team with at least one or two devs that go to events and meetups and also enjoy going out socially as a team.
 
 ##### My main experience is with HTML, CSS (SCSS), JavaScript, React, Node, C#, Java, T-SQL. I am focusing on levelling up my HTML, CSS, JS and React at the moment before moving on to others.
 
