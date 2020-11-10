@@ -2,7 +2,7 @@
 
 #### I'm a professional developer based in Manchester, UK.
 
-##### I'm looking for a cool and collaborative team to write code with. If your team has passion for coding and looks to elevate each other as well as the projects they're working on then I'd love to join you.
+##### I'm looking for a collaborative team to write code with. If your team has passion for coding and looks to elevate each other as well as the projects they're working on then I'd love to join you.
 
 ##### I have been learning coding solo for a number of years on and off and through various languages. It's only in the last 3 or so years that I've really commited to making coding a larger part of my life after realising that I didn't want to be a professional photographer when I was 50. I'd rather be sitting with a cup of coffee in a comfy chair than doing 14 hour days in the rain with a load of camera gear.  
 
