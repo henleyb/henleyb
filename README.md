@@ -7,7 +7,7 @@
 ##### If you're looking for a hand with coding then fire me a message as I'm open to mentoring.
 
 ---
--  :coffee: I’m currently working on a React coffee app which is private for the time being but may become public in the future for others to contribute to.
+-  :coffee: I’m currently working on a coffee app which is private for the time being but may become public in the future for others to contribute to.
 
 <!--
 **henleyb/henleyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
