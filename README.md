@@ -2,7 +2,7 @@
 
 #### I'm a professional developer based in Manchester, UK.
 
-##### My main experience is with HTML, CSS (SCSS), JavaScript, React, Node, C#, Java, T-SQL. I am focusing on levelling up my HTML, CSS, JS and React at the moment before moving in to more depth with MongoDB, Node and Express to be a solid MERN dev.
+##### My main experience is with HTML, CSS (SCSS), JavaScript, React, Angular, Node, C#, Java and T-SQL.
 
 ##### If you're looking for a hand with coding then fire me a message as I'm open to mentoring.
 
