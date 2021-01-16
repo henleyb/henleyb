@@ -1,10 +1,6 @@
-### Hi, I'm Henley 👋
-
-#### I'm a professional developer based in Manchester, UK.
+### Hi, I'm a professional developer based in Manchester, UK.
 
 ##### My main experience is with HTML, CSS (SCSS), JavaScript, React, Angular, Node, C#, Java and T-SQL.
-
-##### If you're looking for a hand with coding then fire me a message as I'm open to mentoring.
 
 ---
 -  :coffee: I’m currently working on a coffee app which is private for the time being but may become public in the future for others to contribute to.
