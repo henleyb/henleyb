@@ -1,9 +1,9 @@
-### Hi, I'm a professional developer based in Manchester, UK.
+### Hi, I'm a full time developer based in Manchester, UK.
 
 ##### My main experience is with HTML, CSS (SCSS), JavaScript, React, Angular, Node, C#, Java and T-SQL.
 
 ---
--  :coffee: I’m currently working on a coffee app which is private for the time being but may become public in the future for others to contribute to.
+-  :coffee:
 
 <!--
 **henleyb/henleyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
