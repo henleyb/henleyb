@@ -3,7 +3,7 @@
 ##### My main experience is with HTML, CSS (SCSS), JavaScript, React, Angular, Node, C#, Java and T-SQL.
 
 ---
--  :coffee:
+:coffee:
 
 <!--
 **henleyb/henleyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
