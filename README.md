@@ -1,4 +1,4 @@
-### Hi, I'm a full time developer based in Manchester, UK.
+### Hi, I'm a developer based in Manchester, UK.
 
 ##### My main experience is with HTML, CSS (SCSS), JavaScript, React, Angular, Node, C#, Java and T-SQL.
 
