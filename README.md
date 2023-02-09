@@ -1,6 +1,6 @@
 ### Hi, I'm a developer based in Manchester, UK.
 
-##### My main experience is with JavaScript, React, NextJS, Angular, Playwright and Cypress.
+##### My main experience is with JavaScript, React, NextJS 12 & 13, Angular, Playwright and Cypress.
 
 :coffee:
 
